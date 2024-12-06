@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.question-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
